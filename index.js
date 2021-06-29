@@ -1,1 +1,2 @@
-console.log('index.js1234567880000000011122')
+console.log('index.js1234567880000000011122');3213123
+console.log(21312312)
